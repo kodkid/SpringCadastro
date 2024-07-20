@@ -1,6 +1,6 @@
 package com.cadastro.SpringCadastro.controllers;
 
-public class UserDpto {
+public class UserDto {
     private String email;
     private String senha;
 
@@ -21,5 +21,3 @@ public class UserDpto {
         this.senha = senha;
     }
 }
-    
-
